@@ -1,0 +1,25 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.VT.5.2-00300-SM6150-1.190846.2", 
+        "aop": "AOP.HO.2.0.1-00030-SM6150AAAAANAZO-1", 
+        "apps": "LA.UM.7.9.r1-04300-sm6150.0-1", 
+        "boot": "BOOT.XF.3.1-00157-SM6150LZB-1", 
+        "btfm": "BTFM.CHE.2.1.4-00484-QCACHROMZ-1", 
+        "btfm_cmc": "BTFM.CMC.1.2.0-00090-QCACHROMZ-1", 
+        "cdsp": "CDSP.VT.2.2-00246-SM6150-1.190846.2", 
+        "common": "SM6150.LA.1.0-00289-STD.PROD-2.190846.7", 
+        "glue": "GLUE.SM6150_LA.1.0-00104-NOOP_TEST-1", 
+        "modem": "MPSS.AT.4.3-00364.4-SM6150_GEN_PACK-2.190846.2", 
+        "tz": "TZ.XF.5.0.3-00023-S6150AAAAANAZT-1", 
+        "video": "VIDEO.VE.5.4-00010-PROD-1", 
+        "wapi": "WLAN_ADDON.HL.1.0-00034-CNSS_RMZ_WAPI-1", 
+        "wdsp": "WDSP.9340.3.0-00018-W9340AAAAAAAZQ-1", 
+        "wlan": "WLAN.HL.3.0.1-00435-QCAHLSWMTPLZ-1.190846.2"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SM6150.LA.1.0-00289-STD.PROD-2.190846.7", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2019-04-01 20:26:28"
+    }, 
+    "Version": "1.0"
+}
